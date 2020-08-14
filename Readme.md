@@ -4,6 +4,8 @@ These pages are created on the fly using JavaScript, so your browser will need t
 
 You can also just clone the repo locally and open up index.html.
 
+![](sheet.png)
+
 ## To-Do
 
 * Implement Addition
