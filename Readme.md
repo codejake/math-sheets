@@ -11,5 +11,4 @@ You can also just clone the repo locally and open up index.html.
 * Implement Division
 
 
-If you like these pages, and you're feeling generous, you may send Bitcoin to 
-`bc1qhau4ayzyfrntnm67zku4c2es3yn7u7mekw6afh`
+If you like these pages, and you're feeling generous, you may send Bitcoin to `bc1qhau4ayzyfrntnm67zku4c2es3yn7u7mekw6afh`
