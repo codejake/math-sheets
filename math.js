@@ -2,7 +2,6 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const by = urlParams.get('by');
 
-//console.log(queryString);
 
 var Numbers = {
 	1: "Ones",
@@ -16,20 +15,6 @@ var Numbers = {
 	9: "Nines",
 	10: "Tens",
 };
-
-let dog = "spot";
-
-function hello() {
-	console.log("hello world!");
-}
-
-function helloDog() {
-	console.log("hello " + dog +"!");
-}
-
-function helloParam() {
-	console.log("by " + getBy());
-}
 
 function getRandomNumber() {
 	return Math.floor((Math.random() * 10) +1);
